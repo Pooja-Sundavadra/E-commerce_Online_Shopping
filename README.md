@@ -1,8 +1,8 @@
-                                                         💫STAR Online Shopping💫 
+                                            💫STAR Online Shopping💫 
 
-               Star online shopping is an e-commerce website developed using PHP , MySQL , HTML ,CSS , Bootstrap and JavaScript.
-  The project provides a complete online shopping experience with secure authentication, product browsing, cart functionality, 
-  Payment integration, and receipt generation.
+               Star online shopping is an e-commerce website developed using PHP , MySQL , HTML ,CSS ,
+  Bootstrap and JavaScript. The project provides a complete online shopping experience with secure authentication,
+  product browsing, cart functionality, Payment integration, and receipt generation.
 
   Features :~
     - User Registration and Login
